@@ -21,6 +21,6 @@ Projects undertaken by GSM
 [Title](link)
 Title : <link>
 ```
-__[My_Github]__(https://github.com/sinbee0402/)
+__[My_Github]__(https://github.com/sinbee0402)
 <br>
-~~Github~~ : <https://github.com/sinbee/>
+~~Github~~ : <https://github.com/sinbee0402>
